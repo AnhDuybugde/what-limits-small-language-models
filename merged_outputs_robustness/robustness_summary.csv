@@ -1,4 +1,0 @@
-model_name,model_size,axis,dataset,original_score,best_perturbed_condition,best_perturbed_score,worst_perturbed_condition,worst_perturbed_score,prompt_sensitivity_gap,worst_case_drop
-Qwen/Qwen2.5-1.5B-Instruct,1.5B,robustness,robustness_gsm8k,0.043,robust_para,0.051,robust_format,0.027,0.015999999999999997,0.015999999999999997
-Qwen/Qwen2.5-3B-Instruct,3B,robustness,robustness_gsm8k,0.093,robust_para,0.137,robust_format,0.003,0.09,0.09
-Qwen/Qwen2.5-7B-Instruct,7B,robustness,robustness_gsm8k,0.1,robust_para,0.176,robust_format,0.068,0.07599999999999998,0.032
