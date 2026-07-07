@@ -1,0 +1,13 @@
+model_name,model_size,axis,dataset,condition,n,main_score_mean,exact_match_mean,f1_mean,accuracy_mean,latency_mean,memory_mean
+Qwen/Qwen2.5-1.5B-Instruct,1.5B,robustness,robustness_gsm8k,robust_format,1000,0.027,0.027,0.037268885775272896,0.027,12.166522771474972,1.4192042179107667
+Qwen/Qwen2.5-1.5B-Instruct,1.5B,robustness,robustness_gsm8k,robust_original,1000,0.043,0.043,0.06259124606413181,0.043,8.118051472242,1.4185250520706176
+Qwen/Qwen2.5-1.5B-Instruct,1.5B,robustness,robustness_gsm8k,robust_para,1000,0.051,0.051,0.06125090825857889,0.051,10.550547299253992,1.4183590083122253
+Qwen/Qwen2.5-1.5B-Instruct,1.5B,robustness,robustness_gsm8k,robust_typo,1000,0.033,0.033,0.05472184561905658,0.033,7.326268690492009,1.4191035308837892
+Qwen/Qwen2.5-3B-Instruct,3B,robustness,robustness_gsm8k,robust_format,1000,0.003,0.003,0.006718734386204773,0.003,16.66820290245602,2.9078717570304873
+Qwen/Qwen2.5-3B-Instruct,3B,robustness,robustness_gsm8k,robust_original,1000,0.093,0.093,0.14100711654547798,0.093,4.072593096970995,2.9052929363250732
+Qwen/Qwen2.5-3B-Instruct,3B,robustness,robustness_gsm8k,robust_para,1000,0.137,0.137,0.15096592748210394,0.137,19.901346068585994,2.907285512924194
+Qwen/Qwen2.5-3B-Instruct,3B,robustness,robustness_gsm8k,robust_typo,1000,0.085,0.085,0.13465860049684328,0.085,3.6958030569330105,2.9077153367996216
+Qwen/Qwen2.5-7B-Instruct,7B,robustness,robustness_gsm8k,robust_format,1000,0.068,0.068,0.09219246858134224,0.068,12.711527990446998,6.270883377552033
+Qwen/Qwen2.5-7B-Instruct,7B,robustness,robustness_gsm8k,robust_original,1000,0.1,0.1,0.2053412617969924,0.1,6.895339248934007,6.268267092704773
+Qwen/Qwen2.5-7B-Instruct,7B,robustness,robustness_gsm8k,robust_para,1000,0.176,0.176,0.23420528162064708,0.176,6.395792112858007,6.2658894600868225
+Qwen/Qwen2.5-7B-Instruct,7B,robustness,robustness_gsm8k,robust_typo,1000,0.115,0.115,0.21537603458110385,0.115,8.124633546935,6.268964481830597
